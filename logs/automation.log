@@ -1,0 +1,76 @@
+2025-07-26 13:27:14 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 13:27:14 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 13:27:14 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 13:27:14 INFO  TC001_Verify_AccountRegistration:23 - ****** Provide User Details ********
+2025-07-26 13:27:16 INFO  TC001_Verify_AccountRegistration:52 - ****** finished verification ********
+2025-07-26 13:27:20 INFO  TC002_LoginTest:17 - ******** Started loginTest *********
+2025-07-26 13:27:23 INFO  TC002_LoginTest:38 - ****** Finished LoginTest *********
+2025-07-26 13:31:04 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 13:31:04 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 13:31:04 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 13:31:04 INFO  TC001_Verify_AccountRegistration:23 - ****** Provide User Details ********
+2025-07-26 13:31:06 INFO  TC001_Verify_AccountRegistration:52 - ****** finished verification ********
+2025-07-26 13:31:10 INFO  TC002_LoginTest:17 - ******** Started loginTest *********
+2025-07-26 13:31:12 INFO  TC002_LoginTest:38 - ****** Finished LoginTest *********
+2025-07-26 13:31:18 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 13:31:18 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 13:31:18 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 13:31:19 INFO  TC001_Verify_AccountRegistration:23 - ****** Provide User Details ********
+2025-07-26 13:51:51 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 13:51:51 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 13:51:52 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 13:51:53 INFO  TC001_Verify_AccountRegistration:23 - ****** Provide User Details ********
+2025-07-26 13:51:54 INFO  TC001_Verify_AccountRegistration:52 - ****** finished verification ********
+2025-07-26 13:51:59 INFO  TC002_LoginTest:17 - ******** Started loginTest *********
+2025-07-26 13:52:00 INFO  TC002_LoginTest:38 - ****** Finished LoginTest *********
+2025-07-26 13:52:11 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 13:52:11 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 13:52:11 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 13:52:37 INFO  TC001_Verify_AccountRegistration:23 - ****** Provide User Details ********
+2025-07-26 13:52:46 INFO  TC002_LoginTest:17 - ******** Started loginTest *********
+2025-07-26 13:52:48 INFO  TC002_LoginTest:38 - ****** Finished LoginTest *********
+2025-07-26 13:53:24 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 13:53:24 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 13:53:25 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 13:53:25 INFO  TC001_Verify_AccountRegistration:23 - ****** Provide User Details ********
+2025-07-26 13:53:27 INFO  TC001_Verify_AccountRegistration:52 - ****** finished verification ********
+2025-07-26 13:53:32 INFO  TC002_LoginTest:17 - ******** Started loginTest *********
+2025-07-26 13:53:35 INFO  TC002_LoginTest:38 - ****** Finished LoginTest *********
+2025-07-26 13:53:41 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 13:53:41 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 13:53:41 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 13:55:47 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 13:55:47 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 13:55:47 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 13:55:48 INFO  TC001_Verify_AccountRegistration:23 - ****** Provide User Details ********
+2025-07-26 13:55:49 INFO  TC001_Verify_AccountRegistration:52 - ****** finished verification ********
+2025-07-26 13:55:54 INFO  TC002_LoginTest:17 - ******** Started loginTest *********
+2025-07-26 13:55:55 INFO  TC002_LoginTest:38 - ****** Finished LoginTest *********
+2025-07-26 13:56:01 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 13:56:01 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 13:56:01 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 13:56:02 INFO  TC001_Verify_AccountRegistration:23 - ****** Provide User Details ********
+2025-07-26 13:56:04 INFO  TC001_Verify_AccountRegistration:52 - ****** finished verification ********
+2025-07-26 13:56:05 INFO  TC002_LoginTest:17 - ******** Started loginTest *********
+2025-07-26 13:56:07 INFO  TC002_LoginTest:38 - ****** Finished LoginTest *********
+2025-07-26 19:18:43 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 19:18:43 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 19:18:43 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 19:18:44 INFO  TC001_Verify_AccountRegistration:23 - ****** Provide User Details ********
+2025-07-26 19:18:45 INFO  TC001_Verify_AccountRegistration:52 - ****** finished verification ********
+2025-07-26 19:18:47 INFO  TC002_LoginTest:17 - ******** Started loginTest *********
+2025-07-26 19:18:48 INFO  TC002_LoginTest:38 - ****** Finished LoginTest *********
+2025-07-26 22:33:36 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 22:33:36 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 22:33:36 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 22:33:37 INFO  TC001_Verify_AccountRegistration:23 - ****** Provide User Details ********
+2025-07-26 22:33:38 INFO  TC001_Verify_AccountRegistration:52 - ****** finished verification ********
+2025-07-26 22:33:40 INFO  TC002_LoginTest:17 - ******** Started loginTest *********
+2025-07-26 22:33:41 INFO  TC002_LoginTest:38 - ****** Finished LoginTest *********
+2025-07-26 22:51:59 INFO  TC001_Verify_AccountRegistration:15 - ****** started verification ********
+2025-07-26 22:51:59 INFO  TC001_Verify_AccountRegistration:18 - ****** click MyAccount********
+2025-07-26 22:51:59 INFO  TC001_Verify_AccountRegistration:20 - ****** click Register********
+2025-07-26 22:52:00 INFO  TC001_Verify_AccountRegistration:23 - ****** Provide User Details ********
+2025-07-26 22:52:01 INFO  TC001_Verify_AccountRegistration:52 - ****** finished verification ********
+2025-07-26 22:52:03 INFO  TC002_LoginTest:17 - ******** Started loginTest *********
+2025-07-26 22:52:07 INFO  TC002_LoginTest:38 - ****** Finished LoginTest *********
